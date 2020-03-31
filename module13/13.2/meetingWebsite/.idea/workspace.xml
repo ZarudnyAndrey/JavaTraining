@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd389654-1525-49f4-9a8c-3545177f4ad2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1pBVJVB9aI8cJtw1SdkMjKQ8r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/SkillBox/5/5.3/HashSet 5.3" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.3" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="meetingWebsite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd389654-1525-49f4-9a8c-3545177f4ad2" name="Default Changelist" comment="" />
+      <created>1576430319429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576430319429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576738986964">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1576738986964" />
+    <state x="160" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1576475270617">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="160" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1576475270617" />
+    <state x="82" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576730743408">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="82" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1576730743408" />
+    <state x="129" y="204" key="FileChooserDialogImpl" timestamp="1576758953359">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="129" y="204" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1576758953359" />
+    <state width="1624" height="315" key="GridCell.Tab.0.bottom" timestamp="1576767985360">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1624" height="315" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1576767985360" />
+    <state width="1624" height="315" key="GridCell.Tab.0.center" timestamp="1576767985360">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1624" height="315" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1576767985360" />
+    <state width="1624" height="315" key="GridCell.Tab.0.left" timestamp="1576767985360">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1624" height="315" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1576767985360" />
+    <state width="1624" height="315" key="GridCell.Tab.0.right" timestamp="1576767985360">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1624" height="315" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1576767985360" />
+    <state width="1624" height="315" key="GridCell.Tab.1.bottom" timestamp="1576767985361">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1624" height="315" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1576767985361" />
+    <state width="1624" height="315" key="GridCell.Tab.1.center" timestamp="1576767985361">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1624" height="315" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1576767985361" />
+    <state width="1624" height="315" key="GridCell.Tab.1.left" timestamp="1576767985361">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1624" height="315" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1576767985361" />
+    <state width="1624" height="315" key="GridCell.Tab.1.right" timestamp="1576767985361">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1624" height="315" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1576767985361" />
+    <state x="0" y="134" key="new project wizard" timestamp="1576486867908">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="0" y="134" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1576486867908" />
+  </component>
+</project>

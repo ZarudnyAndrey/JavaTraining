@@ -1,0 +1,4 @@
+2019-11-16 23:20:28.762 [ForkJoinPool-1-worker-5] ERROR core.Main - Приложение вызвало исключение: HTTP error fetching URL
+2019-11-16 23:22:14.994 [main] ERROR core.Main - Приложение вызвало исключение: java.util.ConcurrentModificationException: java.util.ConcurrentModificationException
+2019-11-17 21:11:33.375 [ForkJoinPool-1-worker-1] ERROR core.Main - Приложение вызвало исключение: HTTP error fetching URL
+2019-11-17 21:13:57.538 [main] ERROR core.Main - Приложение вызвало исключение: null

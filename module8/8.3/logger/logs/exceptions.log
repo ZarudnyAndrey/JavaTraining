@@ -1,0 +1,4 @@
+2019-08-19 21:16:21.117 [main] ERROR Main - Exception Description
+java.lang.ArithmeticException: / by zero
+	at Main.takeStation(Main.java:88) ~[classes/:?]
+	at Main.main(Main.java:33) [classes/:?]

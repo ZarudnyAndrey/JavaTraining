@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Absolute New To-Do List</title>
+  <script src="/js/jquery-3.4.1.min.js"></script>
+  <script src="/js/main.js"></script>
+  <link rel="stylesheet" type="text/css" href="/css/styles.css">
+</head>
+<body style="background-attachment:fixed" topmargin="0">
+
+  <div class="container" id="add-task-form">
+    <form id="form-task-add" action="#">
+      <h2>Добавление задания</h2>
+      <input type="text" name="name" placeholder="Введите задание">
+      <input class="dateline" type="date" name="date">
+      <button id="save-task-btn">Сохранить</button>
+    </form>
+  </div>
+
+  <div class="container" id="change-task-form">
+    <form id="form-task-change" action="#">
+      <h2>Изменение задания</h2>
+      <input type="text" name="changeName" placeholder="Введите задание">
+      <input class="dateline" type="date" name="changeDate">
+      <button id="change-task-btn" onclick="saveChangeTask()">Сохранить изменения</button>
+    </form>
+  </div>
+
+  <h1>Список заданий (<span th:text="${tasksCount}">0</span>)</h1>
+  <button id="show-add-task-form">Добавить задание</button>
+
+  <div id="task-list">
+    <div th:each="task : ${tasks}">
+      <a href="#" class="task-link" th:attr="data-id=${task.id}" th:text="${task.name}"></a>
+    </div>
+  </div>
+
+</body>
+</html>

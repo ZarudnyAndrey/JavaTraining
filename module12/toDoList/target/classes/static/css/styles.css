@@ -1,0 +1,29 @@
+body {
+  background-image: url("bg.jpg");
+  background-size: 100%;
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  font-family: Verdana, sans-serif;
+}
+
+.container {
+  border: 3px solid black;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px gray;
+  display: none;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  width: 350px;
+  height: 200px;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  width: 250px;
+  margin: 0px 0px 10px 10px;
+}
